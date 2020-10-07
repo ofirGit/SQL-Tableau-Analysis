@@ -1,2 +1,2 @@
 # SQL-Tableau-Analysis
-Analys Classicmodels database with SQL, MySQL, Tableau
+'Classicmodels' database analysis with SQL, MySQL, Tableau
