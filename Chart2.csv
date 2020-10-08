@@ -1,0 +1,42 @@
+city,country,firstName,Amount,Calendar_year
+"San Francisco",USA,Leslie,287349.83,2005
+"San Francisco",USA,Leslie,517408.62,2004
+"San Francisco",USA,Leslie,532681.13,2003
+Boston,USA,Julie,129916.12,2004
+Boston,USA,Julie,36630.11,2005
+Boston,USA,Julie,220116.97,2003
+Boston,USA,Steve,337260.95,2004
+Boston,USA,Steve,81664.41,2003
+Boston,USA,Steve,30293.77,2005
+NYC,USA,"Foon Yue",221887.03,2003
+NYC,USA,"Foon Yue",237255.26,2004
+NYC,USA,"Foon Yue",29070.38,2005
+NYC,USA,George,169288.50,2003
+NYC,USA,George,386617.52,2004
+NYC,USA,George,28500.78,2005
+Paris,France,Loui,263209.69,2004
+Paris,France,Loui,177960.10,2003
+Paris,France,Loui,128315.96,2005
+Paris,France,Gerard,487510.31,2004
+Paris,France,Gerard,295246.44,2003
+Paris,France,Gerard,329247.06,2005
+Paris,France,Pamela,409910.07,2004
+Paris,France,Pamela,317104.78,2003
+Paris,France,Pamela,23187.02,2005
+Paris,France,Martin,179648.58,2003
+Paris,France,Martin,207828.89,2004
+Tokyo,Japan,Mami,267249.40,2003
+Tokyo,Japan,Mami,151761.45,2004
+Tokyo,Japan,Mami,38099.22,2005
+Sydney,Australia,Andy,226808.03,2003
+Sydney,Australia,Andy,172377.82,2004
+Sydney,Australia,Andy,110199.97,2005
+Sydney,Australia,Peter,337455.80,2004
+Sydney,Australia,Peter,105273.88,2005
+Sydney,Australia,Peter,55177.48,2003
+London,UK,Larry,116158.76,2005
+London,UK,Larry,261536.95,2003
+London,UK,Larry,308957.54,2004
+London,UK,Barry,243847.90,2003
+London,UK,Barry,365858.21,2004
+London,UK,Barry,27966.54,2005

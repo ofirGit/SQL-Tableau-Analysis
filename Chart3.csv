@@ -1,0 +1,14 @@
+firstName,city,"round(avg(p.amount),2)"
+Leslie,"San Francisco",47891.64
+Julie,Boston,18315.06
+Steve,Boston,30293.77
+"Foon Yue",NYC,29070.38
+George,NYC,28500.78
+Loui,Paris,25663.19
+Gerard,Paris,54874.51
+Pamela,Paris,11593.51
+Larry,London,38719.59
+Barry,London,27966.54
+Andy,Sydney,27549.99
+Peter,Sydney,52636.94
+Mami,Tokyo,12699.74
