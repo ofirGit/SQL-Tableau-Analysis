@@ -8,7 +8,7 @@
 - MySQL Workbench
 - Tableau Public
 
-![](dashboard1.png)
+![](Dashboard1.png)
 
 **view Project Details on Tableau Public**
 [Link for dashboard on Tableau Public](https://public.tableau.com/views/SQL_16020808667740/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
