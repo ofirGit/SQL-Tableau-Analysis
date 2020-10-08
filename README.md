@@ -8,7 +8,7 @@
 - MySQL Workbench
 - Tableau Public
 
-![](Dashboard1.png)
+![](https://github.com/ofirGit/SQL-Tableau-Analysis/blob/main/Dashboard%201.png)
 
 **view Project Details on Tableau Public**
 [Link for dashboard on Tableau Public](https://public.tableau.com/views/SQL_16020808667740/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
