@@ -22,3 +22,10 @@
 - What is the average of  sales from different countries for each year, starting from 2003?
 - who's the top sale representative for 2005? 
 - What is the average payment per customer within a certain credit limit range (for example: platinum = credit limit>100000)?
+
+**conclusion**
+
+- In all of the offices There was a major decrease in the sales volume.
+- Despite of the highest amount of customers in USA, there was a major decrease in sales - USA sales volume has fallen sharply.
+- Japan office's sales has been in decrease since 2003. the number of customers is the lowest and so is the sales volume of the agent in the last year (2005). 
+- Due the results of the analysis above, I strongly recommend to merge offices and reduce the number of sales agents. 
