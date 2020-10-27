@@ -23,7 +23,7 @@
 - who's the top sale representative for 2005? 
 - What is the average payment per customer within a certain credit limit range (for example: platinum = credit limit>100000)?
 
-**conclusion**
+**Conclusion**
 
 - In all of the offices There was a major decrease in the sales volume.
 - Despite of the highest amount of customers in USA, there was a major decrease in sales - USA sales volume has fallen sharply.
